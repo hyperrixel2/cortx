@@ -120,7 +120,7 @@ Real example for storing a DoF file in a test bucket.
 es_id = cortxdof.store(dofdata, bucket=TEST_BUCKET)
  ```
 
-### Real lie example
+### Real life example
 
 Create ContainerInfo
 
